@@ -28,11 +28,11 @@ Python challenge好像荒废很久了，今天把challenge 12补上。
 
 ``` python
 #!/usr/bin/env python
- 
+
 f=open('evil2.gfx')
 text=f.read()
 f.close()
- 
+
 for i in range(5):
     f=open(str(i),'wb')
     f.write(text[i::5])

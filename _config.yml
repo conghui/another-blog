@@ -1,34 +1,34 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+title: "Conghui"
+description: "Conghui's blog,use Jekyll and github pages."
+keywords: "Conghui,blog,Jekyll,github,gh-pages"
 
 baseurl: "/"
-url: "http://www.jack003.com"
-# url: "http://127.0.0.1:4000"
+#url: "http://www.jack003.com"
+url: "http://0.0.0.0:4000"
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+img_path: '/static/img/blog'
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  name: 'Conghui He'
+  first_name: 'Conghui'
+  last_name: 'He'
+  email: 'heconghui@gmail.com'
+  facebook_username: 'conghui.he'
+  github_username: 'conghui'
+  head_img: 'static/img/landing/conghui.jpg'
 
 # social link
 jingyu:
-  first_name: 'Yu'
-  last_name: 'Jing'
-  description: 'Painter.'
-  link: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+  first_name: 'Weijia'
+  last_name: 'Li'
+  description: 'Dancer'
+  link: 'http://weibo.com/u/1864400621'
+  email: 'liweijia621@gmail.com'
 
 # landing page
 landing:

@@ -1,6 +1,6 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Conghui's blog"
   },
   "nav":{
     "home": "Home",
@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "I am a Ph.D. candidate in Tsinghua University"
   },
   "skills":{
     "my_skills": "My Skills"
@@ -31,14 +31,17 @@
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
     "nextcode_job": "Python Developer",
+    
     "netease": "Netease Game",
     "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
     "netease_date": "Jun. 2015",
     "netease_job": "Dev Ops",
+
     "ucloud": "Ucloud",
     "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
     "ucloud_date": "Sep. 2013",
     "ucloud_job": "Dev Ops",
+
     "college": "Graduation",
     "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
     "college_date": "Jul. 2013",
