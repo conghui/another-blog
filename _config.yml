@@ -64,9 +64,9 @@ index:
   home: 'Home'
   python: 'Python'
   linux: 'Linux'
-  html: 'HTML'
+  programing: 'Programing'
   database: 'Database'
-  mac: 'Mac'
+  misc: 'Misc'
   life: 'Life'
 
 # donate

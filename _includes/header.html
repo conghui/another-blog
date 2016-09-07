@@ -1,6 +1,6 @@
 <div class="search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
       opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
-    <input type="text" class="form-control search-content" id="search-content" style="position: fixed; top: 60px" 
+    <input type="text" class="form-control search-content" id="search-content" style="position: fixed; top: 60px"
            placeholder="Search Blog"
            >
 
@@ -44,12 +44,12 @@
                         {% endif %}
                             <a class="page-scroll" href="/linux/">{{ site.index.linux }}</a></li>
 
-                        {% if page.title == site.index.html %}
+                        {% if page.title == site.index.programing %}
                             <li class="active">
                         {% else %}
                             <li>
                         {% endif %}
-                            <a class="page-scroll" href="/html/">{{ site.index.html }}</a></li>
+                            <a class="page-scroll" href="/programing/">{{ site.index.programing }}</a></li>
 
                         {% if page.title == site.index.database %}
                             <li class="active">
@@ -58,12 +58,12 @@
                         {% endif %}
                             <a class="page-scroll" href="/database/">{{ site.index.database }}</a></li>
 
-                        {% if page.title == site.index.mac %}
+                        {% if page.title == site.index.misc %}
                             <li class="active">
                         {% else %}
                             <li>
                         {% endif %}
-                            <a class="page-scroll" href="/mac/">{{ site.index.mac }}</a></li>
+                            <a class="page-scroll" href="/misc/">{{ site.index.misc }}</a></li>
 
                         {% if page.title == site.index.life %}
                             <li class="active">
