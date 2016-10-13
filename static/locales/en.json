@@ -27,24 +27,30 @@
   },
   "career":{
     "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
 
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
+    "stanford": "Stanford University",
+    "stanford_des": "",
+    "stanford_date": "Jun. 2016 - Sep. 2016",
+    "stanford_job": "Visiting student",
+
+    "wxsc": "National Supercomputing Center in Wuxi",
+    "wxsc_des": "Now I work in National Supercomputing Center in Wuxi, which hosts the fastest super computer in the world.",
+    "wxsc_date": "Feb. 2016 - now",
+    "wxsc_job": "Software engineer",
+
+    "statoil": "Statoil (oil company)",
+    "statoil_des": "Design and implement a CPU-GPU hybrid parallel strategy for beam migration, which is a highly efficient migration method for subsurface imaging.",
+    "statoil_date": "Jun. 2014 - Sep. 2014",
+    "statoil_job": "Geophysicist & Dev ",
 
     "thu": "Tsinghua University",
-    "thu_des": "I startd my PhD career in the department of Computer Science, Tsinghua University. My research interest includes ",
-    "thu_date": "Sep. 2013",
-    "thu_job": "Dev Ops",
+    "thu_des": "I started my PhD career in the department of Computer Science, Tsinghua University. My research interests include accelerating the computationally intensive applications such as the oil & gas applications with the state-of-art high performance computing (HPC) technology, and designing extremely low-latency FPGA circuits for financial applications.",
+    "thu_date": "Sep. 2013 - now",
+    "thu_job": "PhD candidate",
 
     "sysu": "Sun Yat-sen University",
-    "sysu_des": "I got my B.S. degree in the major of Computer Science in Sun Yat-sen University.",
-    "sysu_date": "Jul. 2013",
+    "sysu_des": "I got my BS degree in the major of Computer Science in Sun Yat-sen University.",
+    "sysu_date": "Sep. 2009 - Jul. 2013",
     "sysu_job": "Undergraduate"
   },
   "blog":{
