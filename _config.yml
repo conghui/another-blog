@@ -1,105 +1,30 @@
-# Welcome to Jekyll!
 
-# Website settings
-title: "Conghui"
-description: "Conghui's blog,use Jekyll and github pages."
-keywords: "Conghui,blog,Jekyll,github,gh-pages"
+title: Conghui He
+url: 'http://conghui.github.com'
+# baseurl: '/online-cv' #change it according to your repository name
 
-baseurl: "/"
-url: "conghui.github.com"
-#url: "http://0.0.0.0:4000"
 
-# blog img path
-img_path: '/static/img/blog'
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+# style: styles-2
+# style: styles-3
+# style: styles-4
+# style: styles-5
+# style: styles-6
 
-# author
-author:
-  name: 'Conghui He'
-  first_name: 'Conghui'
-  last_name: 'He'
-  email: 'heconghui@gmail.com'
-  facebook_username: 'conghui.he'
-  github_username: 'conghui'
-  head_img: 'static/img/landing/conghui.jpg'
 
-# social link
-jingyu:
-  first_name: 'Weijia'
-  last_name: 'Li'
-  description: 'Dancer'
-  link: 'http://weibo.com/u/1864400621'
-  email: 'liweijia621@gmail.com'
+#Profile information
+name: Conghui He
+tagline: PhD Candidate
+pic: 01_CH_320x320.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-# landing page
-landing:
-  home: 'Home'
-  about: 'About'
-  career: 'Career'
-  skills: 'Skills'
-  projects: 'Project'
-  blog: 'Blog'
-  link: 'Link'
+#sidebar links
+email: heconghui@gmail.com
+phone: '(+86) 15311775057'
+#website: conghui.github.com/blog #do not add http://
+linkedin: heconghui
+github: conghui
 
-# my projects
-project:
-  saplatform:
-    name: 'Saplatform'
-    url: '/Jack614/saplatform'
-    img: 'static/img/landing/saplatform.png'
-  jalpc:
-    name: 'Jalpc'
-    url: '/Jack614/jalpc_jekyll_theme'
-    img: 'static/img/landing/jekyll.png'
-  angularjs:
-    name: 'Jalpc-A'
-    url: '/Jack614/Jalpc-A'
-    img: 'static/img/landing/angularjs.png'
-  Rsser:
-    name: 'Rsser'
-    url: '/Jack614/Rsser'
-    img: 'static/img/landing/rsser.png'
 
-# blog index
-index:
-  home: 'Home'
-  python: 'Python'
-  linux: 'Linux'
-  programing: 'Programing'
-  database: 'Database'
-  misc: 'Misc'
-  life: 'Life'
-
-# donate
-donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
-
-# comment
-changyan:
-  # appid: cysfY7ULn
-  # conf: prod_861928934cecb7a18e15bedaed9dae29
-disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
-
-# share
-bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
-
-# baidu analytics
-ba:
-  uuid: 317acca9ef9255b934e46371e471431d
-
-# google analytics
-ga:
-  id: UA-73784599-1
-
-# Build settings
-encoding: "utf-8"
-
-# other settings
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# Tracker
+#analytics: UA-83979019-1
+#Update all the sections by editing the files inside _includes folder.
